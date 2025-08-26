@@ -1,0 +1,16 @@
+{
+  "functions": {
+    "app.js": {
+      "runtime": "@vercel/node@18.x"
+    }
+  },
+  "builds": [
+    {
+      "src": "package.json",
+      "use": "@vercel/static-build",
+      "config": {
+        "distDir": "build"
+      }
+    }
+  ]
+}
