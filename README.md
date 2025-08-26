@@ -1,6 +1,6 @@
-# Premium White Landing Page - Stellar
+# New Beginnings Properties - Real Estate Solutions Website
 
-A stunning, premium white landing page built with React and TailwindCSS that rivals the best Framer websites. This project showcases world-class design principles with perfect alignment, modern typography, and subtle animations.
+A professional, responsive website for New Beginnings Properties, a real estate solutions company serving the Greater Houston area. This is a static HTML/CSS/JavaScript website designed to help homeowners sell problem properties quickly and easily.
 
 ## ✨ Design Excellence
 
