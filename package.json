@@ -1,41 +1,9 @@
 {
-  "name": "premium-white-landing",
+  "name": "new-beginnings-properties",
   "version": "1.0.0",
-  "private": true,
-  "dependencies": {
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "framer-motion": "^10.16.4",
-    "lucide-react": "^0.292.0",
-    "react-scripts": "^5.0.1"
-  },
+  "description": "Real estate solutions company website",
   "scripts": {
-    "start": "react-scripts start",
-    "build": "CI=false react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
-  },
-  "devDependencies": {
-    "tailwindcss": "^3.3.5",
-    "autoprefixer": "^10.4.16",
-    "postcss": "^8.4.31",
-    "@types/react": "^18.2.0",
-    "@types/react-dom": "^18.2.0"
-  },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
-  },
-  "engines": {
-    "node": ">=16.0.0",
-    "npm": ">=8.0.0"
+    "start": "npx serve .",
+    "build": "echo 'Static site - no build needed' && exit 0"
   }
 }
