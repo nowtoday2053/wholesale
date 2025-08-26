@@ -1,9 +1,5 @@
 {
   "name": "new-beginnings-properties",
   "version": "1.0.0",
-  "description": "Real estate solutions company website",
-  "scripts": {
-    "start": "npx serve .",
-    "build": "echo 'Static site - no build needed' && exit 0"
-  }
+  "description": "Real estate solutions company website"
 }
